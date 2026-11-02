@@ -3,10 +3,15 @@ A simple web application that helps users track their offline hours, monitor dig
 
 # Features
 Set a digital detox pledge.
+
 Log offline hours.
+
 Track progress toward detox goals.
+
 View milestones and earn badges.
+
 Get interactive feedback using the Web Audio API.
+
 Responsive and simple user interface.
 
 # Tech Stack
