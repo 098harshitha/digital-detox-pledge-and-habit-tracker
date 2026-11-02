@@ -11,9 +11,13 @@ Responsive and simple user interface.
 
 # Tech Stack
 HTML
+
 CSS
+
 JavaScript
+
 Web Audio API
+
 Python (for the lightweight server)
 
 # Project Goal
